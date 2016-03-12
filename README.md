@@ -1,17 +1,16 @@
-# Skinny Bones Jekyll Starter
+A [Jekyll](https://jekyllrb.com/) blog template made for simple, readable snippets of your brain drippings.
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+[DEMO](http://adueck.github.io/cayman-blog/)
 
-I'm currently using a variation of it on my personal website [Made Mistakes](http://mademistakes.com) with some modifications. To learn more about how to use the theme and install it check out the [Skinny Bones demo](http://mmistakes.github.io/skinny-bones-jekyll/) (*work in progress*).
+To get this going follow these simple steps:
 
-![screenshot of Skinny Bones](http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg)
+1. Fork, clone, or download the repository
+2. Edit <code>_config.yml</code>
+3. If you want, swap `img/cover.jpg` for your own header image
+3. Fill up the `_posts` folder with whatever you want to say
+4. run <code>jekyll build</code> and then <code>jekyll serve</code>  
+note: This will require the `jekyll-paginate` gem `$ gem install jekyll-paginate`
 
----
+You can easily host your blog for free on [GitHub Pages](https://pages.github.com/)
 
-## Notable Features
-
-* Jekyll 3.x and GitHub Pages compatible.
-* Stylesheet built using Sass.
-* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
-* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
-* And more.
+I made this Jekyll theme by adapting and modifying the [Cayman Theme](https://github.com/jasonlong/cayman-theme) by [Jason Lang](https://github.com/jasonlong), which is licensed under a [Creative Commons Attribution 4.0 International license](http://creativecommons.org/licenses/by/4.0/).

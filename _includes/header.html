@@ -1,8 +1,5 @@
-<header id="masthead">
-  <div class="inner-wrap">
-    <a href="{{ site.url }}/" class="site-title">{{ site.title }}</a>
-    <nav role="navigation" class="menu top-menu">
-        {% include navigation.html %}
-    </nav>
-  </div><!-- /.inner-wrap -->
-</header><!-- /.masthead -->
+<header class="page-header">
+     <h1 class="project-name"> <a class="header-link" href="{{ site.baseurl }}/"> {{ site.title }}</a></h1>
+     <!--<h3 style="font-weight: lighter;">a blog for <a class="header-link" href="http://canijustgo.com/" target="_blank">canijustgo.com</a></h3>-->
+     <h3>{% if site.twitter_username %}<a class="header-link" href="http://twitter.com/{{ site.twitter_username }}" target="_blank">follow @{{ site.twitter_username }}</a></h3>{% endif %}
+</header>
