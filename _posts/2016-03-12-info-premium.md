@@ -17,4 +17,4 @@ La forma de pago es a través de Paypal o Skrill a la cuenta cornerpickspremium@
 
 Y poco más que decir, esperamos que te unas a nuestro grupo privado, y podamos seguir ganando juntos muchas unidades.
 
-Cualquier duda nos la comentas a cornerpickspremium@gmail.com
+Cualquier duda nos la comentas a [cornerpickspremium@gmail.com](mailto:cornerpickspremium@gmail.com)
