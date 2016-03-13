@@ -2,6 +2,7 @@
 layout: post
 section-type: post
 title: Hello Blog!
+category: General
 ---
 
 En este primer post queremos daros la bienvenida a todos los seguidores de nuestras andanzas como tipster, tanto free por [twitter](https://twitter.com/picks_corner) como Premium.
