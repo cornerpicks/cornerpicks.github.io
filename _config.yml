@@ -56,7 +56,6 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Análisis estadístico semanal."
-  - text: "Seriedad y trabajo."
   - text: "Si terminamos un mes en negativo te regalamos el siguiente."
   - text: "+127,8 unidades en 278 picks con un yield de 14,25% desde septiembre 2015."
   - text: "Todos los meses en positivo desde que empezamos en septiembre 2015."
