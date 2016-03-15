@@ -5,7 +5,11 @@ title: Validación de picks jornada 12 de marzo
 category: General
 ---
 
-A continuación os pasamos los resultados de los picks de la última jornada. Gran semana con un 8/9, vamos a intentar seguir por este camino!
+A continuación os pasamos los resultados de los picks de la última jornada.
+
+Esta semana hemos acertado 8 de los 9 picks que llevábamos, lo que nos ha hecho sumar 18,4 unidades.
+
+Con estos números nos ponemos ya con + 30 unidades en marzo, apuntando lo que puede ser un muy buen mes.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;margin:0px auto;}
