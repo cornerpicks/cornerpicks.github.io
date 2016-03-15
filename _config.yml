@@ -112,7 +112,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/completed_icon.png"
+  - image: "/img/timeline/calculadora.png"
     date: "TOTAL"
     description: "278 picks / +127,80 unidades / 14,25% yield"
   - image: "/img/timeline/completed_icon.png"
