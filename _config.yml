@@ -117,7 +117,8 @@ events:
     description:  "44 picks --- +15 uds --- 14% yield"
   - image: "/img/timeline/completed_icon.png"
     date: "Enero 2016"
-    description: "**44 picks** /-/ **+15 uds** /-/ **14% yield**"
+    description: "**44 picks**
+    /-/ **+15 uds** /-/ **14% yield**"
 
 # First image of the Timeline
 
