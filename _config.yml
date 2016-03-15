@@ -57,8 +57,9 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Análisis estadístico semanal."
   - text: "Si terminamos un mes en negativo te regalamos el siguiente."
-  - text: "+127,8 unidades en 278 picks con un yield de 14,25% desde septiembre 2015."
-  - text: "Todos los meses en positivo desde que empezamos en septiembre 2015."
+  - text: "+127,8 unidades desde septiembre 2015."
+  - text: "Yield 14,25% en 278 picks."
+
 
 me-img: "/img/profile.jpg"
 
@@ -111,16 +112,16 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+  - image: "/img/timeline/completed_icon.png"
+    date: "Febrero 2016"
+    description: "44 picks, +15 uds, 14% yield"
+  - image: "/img/timeline/completed_icon.png"
+    date: "Enero 2016"
+    description: "44 picks, +15 uds, 14% yield"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/profile.jpg"
 
 ###########
 # Contact #
