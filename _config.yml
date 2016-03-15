@@ -113,11 +113,26 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/completed_icon.png"
+    date: "TOTAL"
+    description: "278 picks _ +127,80 unidades _ 14,25% yield"
+  - image: "/img/timeline/completed_icon.png"
     date: "Febrero 2016"
-    description: "44 picks _ +15 unidades 14% yield"
+    description: "45 picks _ +24,49 unidades _ 14,93% yield"
   - image: "/img/timeline/completed_icon.png"
     date: "Enero 2016"
-    description: "44 picks _ +15 unidades 14% yield"
+    description: "42 picks _ +15,34 unidades _ 9,35% yield"
+  - image: "/img/timeline/completed_icon.png"
+    date: "Diciembre 2015"
+    description: "32 picks _ +57,21 unidades _ 56,09% yield"
+  - image: "/img/timeline/completed_icon.png"
+    date: "Noviembre 2015"
+    description: "46 picks _ +6,91 unidades _ 5,16% yield"
+  - image: "/img/timeline/completed_icon.png"
+    date: "Octubre 2015"
+    description: "69 picks _ +7,96 unidades _ 4,04% yield"
+  - image: "/img/timeline/completed_icon.png"
+    date: "Septiembre 2015"
+    description: "44 picks _ +15,89 unidades _ 11,68% yield"
 
 # First image of the Timeline
 
