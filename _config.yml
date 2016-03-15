@@ -114,7 +114,8 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/completed_icon.png"
     date: "Febrero 2016"
-    description: "44 picks, +15 uds, 14% yield"
+    description:  "44 picks, +15 uds, 14% yield"
+                  "MAs info"
   - image: "/img/timeline/completed_icon.png"
     date: "Enero 2016"
     description: "44 picks, +15 uds, 14% yield"
