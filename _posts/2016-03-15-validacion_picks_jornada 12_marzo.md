@@ -86,4 +86,6 @@ A continuación os pasamos los resultados de los picks de la última jornada. Gr
   </tr>
 </table>
 
+<br><br><br>
+
 ![Stats](/img/pant_12mar.png)
