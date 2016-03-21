@@ -9,15 +9,15 @@ A continuación os pasamos los resultados de los picks de la última jornada.
 
 Para qué nos vamos a engañar, llevamos dos semanas increíbles, la semana pasada hicimos 8 / 9 verdes y esta semana 9 / 10, para cerrar un marzo de récord.
 
-Recordad que ya podéis daros de alta para el mes de abril en [Alta Premium](../about.html)
+Recordad que ya podéis daros de alta para el mes de abril en [Alta Premium](about.html).
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;margin:0px auto;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
 .tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-9ewa{color:#fe0000;text-align:center;vertical-align:top}
 .tg .tg-i218{color:#009901;text-align:center;vertical-align:top}
+.tg .tg-9ewa{color:#fe0000;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
