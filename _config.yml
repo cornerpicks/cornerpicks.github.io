@@ -57,8 +57,8 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Análisis estadístico semanal."
   - text: "Si terminamos un mes en negativo te regalamos el siguiente."
-  - text: "+127,8 unidades desde septiembre 2015."
-  - text: "Yield 14,25% en 278 picks."
+  - text: "+185,6 unidades desde septiembre 2015."
+  - text: "Yield 17,93% en 315 picks."
 
 
 me-img: "/img/profile.jpg"
@@ -114,7 +114,10 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/calculadora.png"
     date: "TOTAL"
-    description: "278 picks / +127,80 unidades / 14,25% yield"
+    description: "315 picks / +185,61 unidades / 17,93% yield"
+  - image: "/img/timeline/completed_icon.png"
+    date: "Marzo 2016"
+    description: "37 picks / +57,81 unidades / 41,89% yield"
   - image: "/img/timeline/completed_icon.png"
     date: "Febrero 2016"
     description: "45 picks / +24,49 unidades / 14,93% yield"
