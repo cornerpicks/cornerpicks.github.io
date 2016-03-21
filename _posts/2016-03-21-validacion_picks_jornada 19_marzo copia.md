@@ -7,9 +7,12 @@ category: General
 
 A continuación os pasamos los resultados de los picks de la última jornada.
 
-Para qué nos vamos a engañar, llevamos dos semanas increíbles, la semana pasada hicimos 8 / 9 verdes y esta semana 9 / 10, para cerrar un marzo de récord.
+Para qué nos vamos a engañar, llevamos dos semanas increíbles, la semana pasada hicimos 8 / 9 verdes y esta semana 9 / 10, para cerrar un marzo de récord:
 
-Recordad que ya podéis daros de alta para el mes de abril en [Alta Premium](about.html).
+- +57'81 unidades
+- 41,81 % yield en 37 picks
+
+Recordad que ya podéis daros de alta para el mes de abril y encontrar toda la información de nuestro servicio en [Info Premium](https://cornerpicks.github.io/#about).
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;margin:0px auto;}
