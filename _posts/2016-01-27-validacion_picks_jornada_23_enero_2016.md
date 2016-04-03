@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Validación de picks jornada 30 Enero 2016
+title: Validación de picks jornada 23 Enero 2016
 category: General
 ---
 <style type="text/css">
