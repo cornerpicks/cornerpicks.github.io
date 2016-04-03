@@ -34,34 +34,27 @@ category: General
   </tr>
   <tr>
     <td class="tg-baqh">281</td>
-    <td class="tg-baqh">['[Celta Vigo]', '[Villarreal]']</td>
-    <td class="tg-baqh">SI corner antes min 8</td>
-    <td class="tg-baqh">y</td>
-    <td class="tg-baqh">3</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">282</td>
     <td class="tg-baqh">['[Bayer Leverkusen]', '[Werder Bremen]']</td>
     <td class="tg-baqh">SI corner antes min 9</td>
     <td class="tg-baqh">y</td>
     <td class="tg-baqh">3</td>
   </tr>
   <tr>
-    <td class="tg-baqh">283</td>
+    <td class="tg-baqh">282</td>
     <td class="tg-baqh">['[TSG Hoffenheim]', '[FC Augsburg]']</td>
     <td class="tg-baqh">SI corner antes min 9</td>
     <td class="tg-baqh">y</td>
     <td class="tg-baqh">4</td>
   </tr>
   <tr>
-    <td class="tg-baqh">284</td>
+    <td class="tg-baqh">283</td>
     <td class="tg-baqh">['[SV Darmstadt 98]', '[Borussia Dortmund]']</td>
     <td class="tg-baqh">SI corner antes min 9</td>
     <td class="tg-baqh">y</td>
     <td class="tg-baqh">3</td>
   </tr>
   <tr>
-    <td class="tg-baqh">285</td>
+    <td class="tg-baqh">284</td>
     <td class="tg-baqh">['[Rayo Vallecano]', '[Barcelona]']</td>
     <td class="tg-baqh">SI corner antes min 9</td>
     <td class="tg-baqh">y</td>
