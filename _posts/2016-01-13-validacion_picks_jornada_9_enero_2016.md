@@ -92,5 +92,5 @@ category: General
 
 <br><br>
 
-![Stats](/img/img_9ene.png)
 ![Stats](/img/img_10ene.png)
+![Stats](/img/img_9ene.png)
