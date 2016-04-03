@@ -78,5 +78,5 @@ category: General
 
 <br><br>
 
-![Stats](/img/img_24dic.png)
 ![Stats](/img/img_25dic.png)
+![Stats](/img/img_24dic.png)
