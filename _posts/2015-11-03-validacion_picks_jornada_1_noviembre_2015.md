@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Validación de picks jornada 31 Octubre 2015
+title: Validación de picks jornada 1 Noviembre 2015
 category: General
 ---
 <style type="text/css">
