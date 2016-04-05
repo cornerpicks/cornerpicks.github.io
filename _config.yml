@@ -56,8 +56,10 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Análisis estadístico semanal."
-  - text: "Especialistas en mercado de córners de las principales ligas europeas"
-  - text: "Estadísticas y servicio premium en INBETSMENT"
+  - text: "Especialistas en mercado de córners de las principales ligas europeas."
+  - text: "Estadísticas y servicio premium en INBETSMENT."
+  - text: "8-12 picks por jornada SIEMPRE PRE-PARTIDO en Bet365."
+  - text: "Máxima seguibilidad."
 
 
 me-img: "/img/profile.jpg"
