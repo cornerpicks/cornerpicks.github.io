@@ -56,9 +56,8 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Análisis estadístico semanal."
-  - text: "Si terminamos un mes en negativo te regalamos el siguiente."
-  - text: "+185,6 unidades desde septiembre 2015."
-  - text: "Yield 17,93% en 315 picks."
+  - text: "Especialistas en mercado de córners de las principales ligas europeas"
+  - text: "Síguenos en Inbetsment"
 
 
 me-img: "/img/profile.jpg"
@@ -154,7 +153,7 @@ email: "cornerpickspremium@gmail.com"
 social:
 
   - title: "twitter"
-    url: "https://twitter.com/picks_corner"
+    url: "https://twitter.com/Corner_Picks"
 
 
 ############
