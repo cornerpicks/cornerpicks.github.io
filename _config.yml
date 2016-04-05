@@ -57,7 +57,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Análisis estadístico semanal."
   - text: "Especialistas en mercado de córners de las principales ligas europeas"
-  - text: "Síguenos en Inbetsment"
+  - text: "Síguenos en Inbetsment:https://www.inbetsment.com/tipster/Corner_Picks/3472"
 
 
 me-img: "/img/profile.jpg"
